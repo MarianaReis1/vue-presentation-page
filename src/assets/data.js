@@ -18,16 +18,14 @@ const appData = {
       title: "Stay Up to Date",
       description: "Things change quickly.",
     },
-  ],
-  headerSectionTwo: [
     {
-      id: 1,
+      id: 4,
       img: `images/Network.png`,
       title: "Explore Professional Networks",
       description: "Understand your stakeholders and their needs.",
     },
     {
-      id: 2,
+      id: 5,
       img: `images/Perspective.png`,
       title: "Identify Hidden Opportunities",
       description: "Open a new world of possibility and engagement. ",

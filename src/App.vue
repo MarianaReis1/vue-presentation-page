@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen min-w-screen font-Lato">
+  <div class="font-Lato max-w-[1350px] mx-auto">
     <RouterView />
   </div>
 </template>

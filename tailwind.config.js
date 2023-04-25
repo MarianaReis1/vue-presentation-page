@@ -4,7 +4,8 @@ module.exports = {
   theme: {
     extend: {
       fontSize: {
-        xsm: ["10px", "11px"],
+
+        'text-3xl': '1.625rem',
       },
       colors: {
         Blue: "#148FCF",
@@ -21,6 +22,9 @@ module.exports = {
       fontFamily: {
         Lato: ["Lato", "sans-serif"],
       },
+      spacing: {
+        15: '3.75rem'
+      }
     },
   },
   plugins: [],
